@@ -1,0 +1,31 @@
+# Secrets / machine-specific
+.env
+config.py
+
+# Database (contains face embeddings / biometric data)
+*.db
+attendance.db
+
+# Generated Excel exports
+*.xlsx
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.Python
+
+# Virtual environment
+venv/
+env/
+.venv/
+
+# InsightFace model cache (if it ever lands in the folder)
+.insightface/
+models/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db

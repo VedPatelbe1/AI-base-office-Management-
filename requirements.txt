@@ -1,0 +1,15 @@
+opencv-python
+insightface
+onnxruntime
+numpy
+SQLAlchemy
+pandas
+fastapi
+uvicorn
+python-multipart
+streamlit
+pillow
+openpyxl
+openai
+streamlit-webrtc
+av
